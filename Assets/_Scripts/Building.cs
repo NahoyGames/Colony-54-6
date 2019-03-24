@@ -20,6 +20,7 @@ public class Building : MonoBehaviour
         selected = Instantiate(wall);
         selected.GetComponent<MeshRenderer>().material = buildingMat;
         selected.layer = 9;
+        Destroy(selected.GetComponent<Destructible>());
     }
 
 
@@ -45,7 +46,7 @@ public class Building : MonoBehaviour
                                             cursorPos.y - (cursorPos.y % gridSize.y),
                                             cursorPos.z - (cursorPos.z % gridSize.z));
 
-        if (Physics.Raycast(transform.position, gridCursorPos - transform.position, out hit, dist))
+        if (Physics.Raycast(transform.position, gridCursorPos - transform.position, out hit, dist, 1 << 10))
         {
             Debug.Log("Changed!");
             /*dist -= gridSize.magnitude;

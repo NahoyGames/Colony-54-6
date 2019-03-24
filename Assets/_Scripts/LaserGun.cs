@@ -36,7 +36,7 @@ public class LaserGun : MonoBehaviour
 
             RaycastHit hit;
 
-            if (Physics.Raycast(this.transform.position, transform.forward, out hit, miningRange))
+            if (Physics.Raycast(this.transform.position, transform.forward, out hit, miningRange, ~(1 << 9)))
             {
 
                 lr.SetPositions(new Vector3[] { hand.position, hit.point});
