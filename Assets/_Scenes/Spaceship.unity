@@ -625,7 +625,7 @@ MonoBehaviour:
     m_LegacyVelocityFilterStrength: -1
   m_XAxis:
     Value: 0
-    m_MaxSpeed: 300
+    m_MaxSpeed: 0
     m_AccelTime: 0.1
     m_DecelTime: 0.1
     m_InputAxisName: Mouse X
@@ -795,9 +795,12 @@ MonoBehaviour:
   rollInput: Mouse ScrollWheel
   yawInput: Horizontal
   pitchInput: Vertical
-  rollSpeed: 5
-  yawSpeed: 2
-  pitchSpeed: 4
+  thurstInput: Up
+  rollSpeed: 300
+  yawSpeed: 100
+  pitchSpeed: 160
+  minThurst: 25
+  maxThurst: 100
 --- !u!4 &2009060274
 Transform:
   m_ObjectHideFlags: 0
