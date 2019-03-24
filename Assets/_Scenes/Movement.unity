@@ -165,7 +165,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
-  field of view: 60
+  field of view: 69
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
@@ -210,10 +210,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Speed: 6
-  horizontalSpeed: 80
-  verticalSpeed: 40
+  horizontalSpeed: 120
+  verticalSpeed: 60
   jumpForce: 0.5
   sideSpeed: 4
+  isSprinting: 1
+  multiplier: 1.5
 --- !u!136 &33832546
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -225,9 +227,9 @@ CapsuleCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   m_Radius: 0.5
-  m_Height: 2
+  m_Height: 1.3
   m_Direction: 1
-  m_Center: {x: 0, y: -0.5, z: 0}
+  m_Center: {x: 0, y: -0.3, z: 0}
 --- !u!54 &33832547
 Rigidbody:
   m_ObjectHideFlags: 0
