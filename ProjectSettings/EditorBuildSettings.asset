@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/_Scenes/Intro.unity
+    guid: 606d2b63822a34b25b15d73f94ae0cb7
+  - enabled: 1
+    path: Assets/_Scenes/Mars.unity
+    guid: 64f862a52fedd46b4881d23d765ec99b
+  - enabled: 0
+    path: Assets/_Scenes/Spaceship.unity
+    guid: 8e0b704393c264df58453b3590826d00
   m_configObjects: {}
