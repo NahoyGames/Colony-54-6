@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Player : MonoBehaviour
 {
@@ -10,7 +11,7 @@ public class Player : MonoBehaviour
     private float sprint = 1f;
     private float distToGround;
 
-
+    public Inventory inventory;
     // Walking
     [Header("Movement")]
     public float walkSpeed = 0.5f;
@@ -81,4 +82,6 @@ public class Player : MonoBehaviour
     {
         return Physics.Raycast(transform.position, Vector3.down, distToGround + 0.1f);
     }
+    //Inventory
+
 }
