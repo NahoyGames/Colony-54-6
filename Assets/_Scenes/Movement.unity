@@ -212,7 +212,7 @@ MonoBehaviour:
   Speed: 6
   horizontalSpeed: 120
   verticalSpeed: 60
-  jumpForce: 0.5
+  jumpForce: 250
   sideSpeed: 4
   isSprinting: 1
   multiplier: 1.5

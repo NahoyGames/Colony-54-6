@@ -12,6 +12,7 @@ public class Player : MonoBehaviour
     public float sideSpeed = 2.0f;
     public float isSprinting = 1.0f;
     public float multiplier = 1.0f;
+    public float didNot = 1000.0f;
     // Start is called before the first frame update
     void Start()
     {
@@ -33,9 +34,22 @@ public class Player : MonoBehaviour
         else {
             isSprinting = 1;
         }
-        if (rb.velocity.sqrMagnitude < 0.1) {
-            float j = jumpForce * Input.GetAxis("Jump");
-            rb.AddForce(0, j, 0);
+        if (Input.GetButtonDown("Jump")) {
+            RaycastHit hit;
+
+            if (Physics.Raycast(transform.position, transform.TransformDirection(Vector3.down), out hit, Mathf.Infinity)){
+                float j = Input.GetAxis("Jump") * jumpForce;
+                rb.AddForce(0, j, 0);
+                Debug.DrawRay(transform.position, transform.TransformDirection(Vector3.down) * hit.distance, Color.yellow);
+                Debug.Log("Hit");
+                Debug.Log(hit.distance);
+            }
+            else
+            {
+                Debug.DrawRay(transform.position, transform.TransformDirection(Vector3.down) * didNot, Color.white);
+                Debug.Log("Did not Hit");
+                Debug.Log(hit.distance); 
+            }
         }
     } 
 }
