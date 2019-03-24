@@ -8,6 +8,7 @@ public class LaserGun : MonoBehaviour
     [SerializeField] private float damageMin, damageMax;
 
     [SerializeField] private Material laserMat;
+    [SerializeField] private Transform hand;
 
     private LineRenderer lr;
 
@@ -32,7 +33,7 @@ public class LaserGun : MonoBehaviour
             if (Physics.Raycast(this.transform.position, transform.forward, out hit, miningRange))
             {
 
-                lr.SetPositions(new Vector3[] { this.transform.position, hit.point});
+                lr.SetPositions(new Vector3[] { hand.position, hit.point});
 
                 Destructible d;
                 if ((d = hit.collider.gameObject.GetComponent<Destructible>()) != null)
