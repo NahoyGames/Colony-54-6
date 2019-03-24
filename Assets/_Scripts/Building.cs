@@ -18,7 +18,10 @@ public class Building : MonoBehaviour
         cam = Camera.main;
 
         selected = Instantiate(wall);
-        selected.GetComponent<MeshRenderer>().material = buildingMat;
+        foreach (MeshRenderer m in selected.GetComponentsInChildren<MeshRenderer>())
+        {
+            m.material = buildingMat;
+        }
         selected.layer = 9;
         Destroy(selected.GetComponent<Destructible>());
     }
