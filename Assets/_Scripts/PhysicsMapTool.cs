@@ -24,14 +24,14 @@ public class PhysicsMapTool : MonoBehaviour
 
         if (Input.GetButtonDown("Fire1"))
         {
-            GameObject g = Instantiate(rocks[Random.Range(0, rocks.Length - 1)], this.transform.position, Quaternion.identity);
+            GameObject g = Instantiate(rocks[Random.Range(0, rocks.Length)], this.transform.position, Quaternion.identity);
 
             PhysicsDrop p = g.AddComponent<PhysicsDrop>();
 
             p.deleteRigidbody = true;
             p.sproutMode = false;
-            p.minSize = 0.4f;
-            p.maxSize = 2f;
+            p.minSize = 1.5f;
+            p.maxSize = 10f;
 
             Rigidbody rb = g.AddComponent<Rigidbody>();
 
