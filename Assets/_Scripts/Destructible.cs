@@ -13,6 +13,11 @@ public class Destructible : MonoBehaviour
     private float health;
 
 
+    private void Start()
+    {
+        health = maxHealth;
+    }
+
     public void Damage(float amount)
     {
         this.health -= amount;

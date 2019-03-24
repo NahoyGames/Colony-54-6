@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 8310745650020077201}
   - component: {fileID: 8310745650018946129}
   - component: {fileID: 5975078563238102615}
+  - component: {fileID: 5982250832658218186}
   m_Layer: 0
   m_Name: Cube.001
   m_TagString: Untagged
@@ -92,3 +93,21 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 14
   m_Mesh: {fileID: 4300002, guid: cac4174fc210a4a849263a1c1dd89ccc, type: 3}
+--- !u!114 &5982250832658218186
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8310745650021143185}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc81eea493f1c4f04ace74f14f700336, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxHealth: 1000
+  minDrops: 0
+  maxDrops: 0
+  deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
