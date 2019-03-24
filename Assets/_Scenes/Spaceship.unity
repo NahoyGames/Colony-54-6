@@ -795,7 +795,7 @@ MonoBehaviour:
   rollInput: Mouse ScrollWheel
   yawInput: Horizontal
   pitchInput: Vertical
-  rollSpeed: 3
+  rollSpeed: 5
   yawSpeed: 2
   pitchSpeed: 4
 --- !u!4 &2009060274

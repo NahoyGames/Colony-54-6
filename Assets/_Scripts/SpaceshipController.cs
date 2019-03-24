@@ -36,11 +36,13 @@ public class SpaceshipController : MonoBehaviour
         vel.y = roll - (yaw / 2  * yawSpeed);
         vel.x = pitch;
 
+        vel.y += (((transform.localEulerAngles.y % 360) - 180) / 100);
+
         rb.AddRelativeTorque(vel);
 
         rb.AddRelativeForce(Vector3.up * 2, ForceMode.Impulse);
 
-        Debug.Log(transform.localEulerAngles.z);
+        Debug.Log(transform.localEulerAngles.z % 360);
     }
 
 }
