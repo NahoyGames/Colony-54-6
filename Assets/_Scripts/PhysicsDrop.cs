@@ -30,7 +30,7 @@ public class PhysicsDrop : MonoBehaviour
                 Destroy(rb);
             }
 
-            transform.position += Vector3.up * -0.0075f * transform.localScale.magnitude;
+            transform.position += Vector3.up * -0.0045f * transform.localScale.magnitude;
             Destroy(this);
         }
     }
