@@ -5,6 +5,7 @@ using UnityEngine;
 public class Building : MonoBehaviour
 {
     [SerializeField] private GameObject wall;
+    [SerializeField] private GameObject[] walls;
     [SerializeField] private Material buildingMat;
     [SerializeField] private Vector3 gridSize;
     [SerializeField] private float buildDistance;
@@ -12,14 +13,23 @@ public class Building : MonoBehaviour
     private Camera cam;
 
     private GameObject selected;
+    private int index;
 
-    public bool active = false;
+    private bool active = false;
 
-    private void Start(}
+    private void Start()
     {
         cam = Camera.main;
 
-        selected = Instantiate(wall);
+        SelectWall(walls[0]);
+        active = true;
+    }
+
+    private void SelectWall(GameObject w)
+    {
+        Destroy(selected);
+        wall = w;
+        selected = Instantiate(w);
         foreach (MeshRenderer m in selected.GetComponentsInChildren<MeshRenderer>())
         {
             m.material = buildingMat;
@@ -28,47 +38,83 @@ public class Building : MonoBehaviour
         Destroy(selected.GetComponent<Destructible>());
     }
 
-
     private void Update()
     {
-        // Distance of Building
-        float dist;
-
-        if (Physics.Raycast(transform.position, transform.forward, out RaycastHit hit, buildDistance))
+        if (active)
         {
-            dist = Mathf.Max(hit.distance - (hit.normal * gridSize.magnitude).magnitude, cam.nearClipPlane);
+            // Distance of Building
+            float dist;
+
+            if (Physics.Raycast(transform.position, transform.forward, out RaycastHit hit, buildDistance))
+            {
+                dist = Mathf.Max(hit.distance - (hit.normal * gridSize.magnitude).magnitude, cam.nearClipPlane);
+            }
+            else
+            {
+                dist = buildDistance;
+            }
+
+            // The world position of the cursor
+            Vector3 cursorPos = cam.ScreenToWorldPoint(new Vector3(cam.pixelWidth / 2, cam.pixelHeight / 2, dist));
+
+            // THe world position of the cursor, adjusted to the grid
+            Vector3 gridCursorPos = new Vector3(cursorPos.x - (cursorPos.x % gridSize.x),
+                                                cursorPos.y - (cursorPos.y % gridSize.y),
+                                                cursorPos.z - (cursorPos.z % gridSize.z));
+
+            if (Physics.Raycast(transform.position, gridCursorPos - transform.position, out hit, dist, 1 << 10))
+            {
+                Debug.Log("Changed!");
+                /*dist -= gridSize.magnitude;
+
+                cursorPos = cam.ScreenToWorldPoint(new Vector3(cam.pixelWidth / 2, cam.pixelHeight / 2, dist));
+                gridCursorPos = new Vector3(cursorPos.x - (cursorPos.x % gridSize.x),
+                                                cursorPos.y - (cursorPos.y % gridSize.y),
+                                                cursorPos.z - (cursorPos.z % gridSize.z));*/
+
+                gridCursorPos = hit.collider.gameObject.transform.position - (hit.normal * gridSize.x);
+            }
+
+            selected.transform.position = gridCursorPos;
+
+            if (Input.GetButtonDown("Fire3"))
+            {
+                Instantiate(wall, gridCursorPos, selected.transform.rotation);
+            }
         }
-        else
+    }
+
+    private void FixedUpdate()
+    {
+        if (!Input.GetAxis("Switch").Equals(0))
         {
-            dist = buildDistance;
+            index += (int)Input.GetAxis("Switch");
+
+            if (index >= walls.Length)
+            {
+                index = 0;
+            }
+            else if (index < 0)
+            {
+                index = walls.Length - 1;
+            }
+
+            SelectWall(walls[index]);
         }
 
-        // The world position of the cursor
-        Vector3 cursorPos = cam.ScreenToWorldPoint(new Vector3(cam.pixelWidth / 2, cam.pixelHeight / 2, dist));
-
-        // THe world position of the cursor, adjusted to the grid
-        Vector3 gridCursorPos = new Vector3(cursorPos.x - (cursorPos.x % gridSize.x),
-                                            cursorPos.y - (cursorPos.y % gridSize.y),
-                                            cursorPos.z - (cursorPos.z % gridSize.z));
-
-        if (Physics.Raycast(transform.position, gridCursorPos - transform.position, out hit, dist, 1 << 10))
+        if (Input.GetButtonDown("Cancel"))
         {
-            Debug.Log("Changed!");
-            /*dist -= gridSize.magnitude;
+            if (active)
+            {
+                active = false;
+                Destroy(selected);
+            }
+            else
+            {
+                active = true;
 
-            cursorPos = cam.ScreenToWorldPoint(new Vector3(cam.pixelWidth / 2, cam.pixelHeight / 2, dist));
-            gridCursorPos = new Vector3(cursorPos.x - (cursorPos.x % gridSize.x),
-                                            cursorPos.y - (cursorPos.y % gridSize.y),
-                                            cursorPos.z - (cursorPos.z % gridSize.z));*/
-
-            gridCursorPos = hit.collider.gameObject.transform.position - (hit.normal * gridSize.x);
-        }
-
-        selected.transform.position = gridCursorPos;
-
-        if (Input.GetButtonDown("Fire3"))
-        {
-            Instantiate(wall, gridCursorPos, Quaternion.identity);
+                SelectWall(walls[index]);
+            }
         }
     }
 }

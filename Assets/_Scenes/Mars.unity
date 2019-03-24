@@ -18620,7 +18620,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 585d526b2fea14385ac9ef88acff8adc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wall: {fileID: 8813891199007001529, guid: 357f48aa5711e4a09a62568589078932, type: 3}
+  wall: {fileID: 591671827715296257, guid: 725d0d5e866834910b21e74309765bd0, type: 3}
+  walls:
+  - {fileID: 591671827715296257, guid: 725d0d5e866834910b21e74309765bd0, type: 3}
+  - {fileID: 8813891199007001529, guid: 357f48aa5711e4a09a62568589078932, type: 3}
   buildingMat: {fileID: 2100000, guid: ed7c0f04136f34c9f9a907af662c29ae, type: 2}
   gridSize: {x: 3, y: 3, z: 3}
   buildDistance: 12
