@@ -5,25 +5,64 @@ using UnityEngine;
 public class Building : MonoBehaviour
 {
     [SerializeField] private GameObject wall;
+    [SerializeField] private Material buildingMat;
     [SerializeField] private Vector3 gridSize;
+    [SerializeField] private float buildDistance;
 
     private Camera cam;
 
+    private GameObject selected;
 
     private void Start()
     {
         cam = Camera.main;
+
+        selected = Instantiate(wall);
+        selected.GetComponent<MeshRenderer>().material = buildingMat;
+        selected.layer = 9;
     }
 
 
     private void Update()
     {
+        // Distance of Building
+        float dist;
+
+        if (Physics.Raycast(transform.position, transform.forward, out RaycastHit hit, buildDistance))
+        {
+            dist = Mathf.Max(hit.distance - (hit.normal * gridSize.magnitude).magnitude, cam.nearClipPlane);
+        }
+        else
+        {
+            dist = buildDistance;
+        }
+
         // The world position of the cursor
-        Vector3 cursorPos = cam.ScreenToWorldPoint(Vector3.forward * cam.nearClipPlane);
+        Vector3 cursorPos = cam.ScreenToWorldPoint(new Vector3(cam.pixelWidth / 2, cam.pixelHeight / 2, dist));
 
+        // THe world position of the cursor, adjusted to the grid
         Vector3 gridCursorPos = new Vector3(cursorPos.x - (cursorPos.x % gridSize.x),
-                                            cursorPos.x - (cursorPos.x % gridSize.x),
-                                            cursorPos.x - (cursorPos.x % gridSize.x));
+                                            cursorPos.y - (cursorPos.y % gridSize.y),
+                                            cursorPos.z - (cursorPos.z % gridSize.z));
 
+        if (Physics.Raycast(transform.position, gridCursorPos - transform.position, out hit, dist))
+        {
+            Debug.Log("Changed!");
+            /*dist -= gridSize.magnitude;
+
+            cursorPos = cam.ScreenToWorldPoint(new Vector3(cam.pixelWidth / 2, cam.pixelHeight / 2, dist));
+            gridCursorPos = new Vector3(cursorPos.x - (cursorPos.x % gridSize.x),
+                                            cursorPos.y - (cursorPos.y % gridSize.y),
+                                            cursorPos.z - (cursorPos.z % gridSize.z));*/
+
+            gridCursorPos = hit.collider.gameObject.transform.position - (hit.normal * gridSize.x);
+        }
+
+        selected.transform.position = gridCursorPos;
+
+        if (Input.GetButtonDown("Fire2"))
+        {
+            Instantiate(wall, gridCursorPos, Quaternion.identity);
+        }
     }
 }
