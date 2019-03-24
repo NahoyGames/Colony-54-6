@@ -8,6 +8,7 @@ public class Destructible : MonoBehaviour
     public int minDrops, maxDrops;
 
     public GameObject deathParticle;
+    public GameObject hitParticle;
     public GameObject dropObject;
 
     private float health;
@@ -18,7 +19,7 @@ public class Destructible : MonoBehaviour
         health = maxHealth;
     }
 
-    public void Damage(float amount)
+    public void Damage(float amount, RaycastHit hit)
     {
         this.health -= amount;
 
@@ -26,6 +27,8 @@ public class Destructible : MonoBehaviour
         {
             Kill();
         }
+
+        Instantiate(hitParticle, hit.point, Quaternion.Euler(hit.normal));
     }
 
 

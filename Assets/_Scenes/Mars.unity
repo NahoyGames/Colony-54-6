@@ -222,6 +222,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &695482
 PrefabInstance:
@@ -442,6 +444,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &17954801
 GameObject:
@@ -553,6 +557,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &21176304
 GameObject:
@@ -663,6 +669,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &26231408
@@ -856,6 +864,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &32292116
 GameObject:
@@ -966,6 +976,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &37721769
@@ -1078,6 +1090,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &47090037
 GameObject:
@@ -1189,6 +1203,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &49901176
 GameObject:
@@ -1299,6 +1315,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &51720687
@@ -1596,6 +1614,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &63347530
 GameObject:
@@ -1706,6 +1726,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &67233927
@@ -1903,6 +1925,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &78090378
@@ -2240,6 +2264,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &105997155
 GameObject:
@@ -2350,6 +2376,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &115010990
@@ -2496,6 +2524,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &118831591
 GameObject:
@@ -2606,6 +2636,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &129381356
@@ -2826,6 +2858,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &140116727
@@ -3133,6 +3167,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &147393770
 GameObject:
@@ -3243,6 +3279,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &150338312
@@ -3436,6 +3474,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &155264863
 GameObject:
@@ -3546,6 +3586,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &156926098
@@ -3658,6 +3700,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &157347898
 GameObject:
@@ -3768,6 +3812,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &157680807
@@ -4036,6 +4082,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &166804456
 GameObject:
@@ -4180,6 +4228,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &181244274
 GameObject:
@@ -4291,6 +4341,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &183046019
 GameObject:
@@ -4401,6 +4453,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &184104404
@@ -4546,6 +4600,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &195285120
 GameObject:
@@ -4656,6 +4712,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &195382276
@@ -4801,6 +4859,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &203394536
 GameObject:
@@ -4911,6 +4971,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &203428141
@@ -5023,6 +5085,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &204149298
 GameObject:
@@ -5133,6 +5197,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &205098825
@@ -5397,6 +5463,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &210166950
 GameObject:
@@ -5507,6 +5575,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &221327519
@@ -5619,6 +5689,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &221371883
 GameObject:
@@ -5729,6 +5801,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &222320772
@@ -5927,6 +6001,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &225368625
 GameObject:
@@ -6037,6 +6113,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &229961552
@@ -6259,6 +6337,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &243404866
 GameObject:
@@ -6404,6 +6484,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &244182237
 GameObject:
@@ -6548,6 +6630,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &260527118
 GameObject:
@@ -6658,6 +6742,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &263595386
@@ -6770,6 +6856,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &264680082
 GameObject:
@@ -6880,6 +6968,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &268749574
@@ -7144,6 +7234,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &276837642
 GameObject:
@@ -7254,6 +7346,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &282269714
@@ -7366,6 +7460,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &284025325
 GameObject:
@@ -7476,6 +7572,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &284032980
@@ -7663,6 +7761,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &294958514
@@ -7884,6 +7984,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &305280647
 GameObject:
@@ -7995,6 +8097,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &311799615
 GameObject:
@@ -8105,6 +8209,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &319989836
@@ -8422,6 +8528,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &355378619
 GameObject:
@@ -8532,6 +8640,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &359327630
@@ -8644,6 +8754,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &359686680
 GameObject:
@@ -8755,6 +8867,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &362398647
 GameObject:
@@ -8865,6 +8979,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &362698869
@@ -9134,6 +9250,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &377348350
 GameObject:
@@ -9244,6 +9362,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &388485145
@@ -9433,6 +9553,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &390550429
 GameObject:
@@ -9543,6 +9665,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &411523527
@@ -9655,6 +9779,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &415343711
 GameObject:
@@ -9766,6 +9892,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &418610648
 GameObject:
@@ -9876,6 +10004,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &419244682
@@ -10053,6 +10183,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &423104681
@@ -10246,6 +10378,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &430444444
 PrefabInstance:
@@ -10432,6 +10566,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &433476712
@@ -10625,6 +10761,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &439464365
 GameObject:
@@ -10735,6 +10873,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &442650206
@@ -10923,6 +11063,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &450560201
 PrefabInstance:
@@ -11109,6 +11251,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &460076719
@@ -11336,6 +11480,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &463666598
 PrefabInstance:
@@ -11528,6 +11674,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &472087690
 GameObject:
@@ -11638,6 +11786,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &473870911
@@ -11869,6 +12019,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &484031686
 GameObject:
@@ -11979,6 +12131,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &485516953
@@ -12091,6 +12245,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &485920895
 GameObject:
@@ -12201,6 +12357,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &489689528
@@ -12313,6 +12471,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &495845596
 GameObject:
@@ -12423,6 +12583,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &497885338
@@ -12707,6 +12869,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &516694113
 GameObject:
@@ -12817,6 +12981,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &524877667
@@ -12929,6 +13095,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &526531701
 GameObject:
@@ -13039,6 +13207,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &531776132
@@ -13404,6 +13574,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &541804928
 GameObject:
@@ -13514,6 +13686,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &543540407
@@ -13626,6 +13800,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &546401424
 GameObject:
@@ -13736,6 +13912,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &547441293
@@ -14010,6 +14188,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &554578855
 PrefabInstance:
@@ -14283,6 +14463,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &571879102
 PrefabInstance:
@@ -14475,6 +14657,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &587578670
 GameObject:
@@ -14585,6 +14769,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &588715914
@@ -14697,6 +14883,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &591786088
 GameObject:
@@ -14808,6 +14996,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &612013195
 GameObject:
@@ -14918,6 +15108,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &623258213
@@ -15149,6 +15341,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &632805674
 GameObject:
@@ -15260,6 +15454,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &636519325
 GameObject:
@@ -15370,6 +15566,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &646360709
@@ -15557,6 +15755,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &661075345
@@ -15749,6 +15949,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &665981308
@@ -15969,6 +16171,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &674250563
@@ -16191,6 +16395,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &682457284
 GameObject:
@@ -16301,6 +16507,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &685274586
@@ -16489,6 +16697,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &707978699
 GameObject:
@@ -16599,6 +16809,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &709087661
@@ -16863,6 +17075,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &719889814
@@ -17160,6 +17374,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &738888727
 GameObject:
@@ -17271,6 +17487,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &740764686
 GameObject:
@@ -17338,11 +17556,8 @@ MonoBehaviour:
   sprintMultiplier: 2
   horizontalSensitivity: 150
   verticalSensitivity: 5
-  jumpForce: 250
-  isSprinting: 1
-  multiplier: 1.5
-  didNot: 1000
-  jumpMax: 2
+  jumpForce: 14
+  fallForce: 0.6
 --- !u!4 &740764690
 Transform:
   m_ObjectHideFlags: 0
@@ -17554,6 +17769,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &754301902
 GameObject:
@@ -17665,6 +17882,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &758042132
 GameObject:
@@ -17775,6 +17994,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &766506286
@@ -17920,6 +18141,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &789879012
 GameObject:
@@ -18030,6 +18253,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &791690217
@@ -18223,6 +18448,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &793492253
 GameObject:
@@ -18333,6 +18560,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &795640576
@@ -18445,6 +18674,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &803030365
 GameObject:
@@ -18555,6 +18786,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &805275078
@@ -18667,6 +18900,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &806560137
 GameObject:
@@ -18778,6 +19013,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &808363123
 GameObject:
@@ -18888,6 +19125,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &818184999
@@ -19358,6 +19597,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &841295564
 GameObject:
@@ -19468,6 +19709,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &850316151
@@ -19737,6 +19980,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &855432655
 PrefabInstance:
@@ -19934,6 +20179,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &863040964
 GameObject:
@@ -20078,6 +20325,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &866477500
 GameObject:
@@ -20188,6 +20437,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &868256490
@@ -20300,6 +20551,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &874515558
 GameObject:
@@ -20411,6 +20664,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &878729867
 GameObject:
@@ -20521,6 +20776,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &882677620
@@ -20741,6 +20998,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &884105820
 GameObject:
@@ -20852,6 +21111,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &889611500
 GameObject:
@@ -20962,6 +21223,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &893453505
@@ -21150,6 +21413,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &896955613
@@ -21415,6 +21680,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &917505023
 PrefabInstance:
@@ -21640,6 +21907,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &940038120
 GameObject:
@@ -21750,6 +22019,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &940203430
@@ -21938,6 +22209,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &956082469
 GameObject:
@@ -22048,6 +22321,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &957061255
@@ -22322,6 +22597,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &960149912
 GameObject:
@@ -22432,6 +22709,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &976964009
@@ -22711,6 +22990,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &992017202
 GameObject:
@@ -22821,6 +23102,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &996528885
@@ -23095,6 +23378,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1005714800
 GameObject:
@@ -23206,6 +23491,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1010223472
 GameObject:
@@ -23316,6 +23603,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1014590138
@@ -23527,6 +23816,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1026093703
 GameObject:
@@ -23638,6 +23929,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1031017223
 GameObject:
@@ -23748,6 +24041,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &1053675032
@@ -23940,6 +24235,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &1069058421
@@ -24409,6 +24706,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1078662968
 GameObject:
@@ -24519,6 +24818,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &1080169884
@@ -24712,6 +25013,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1085099245
 GameObject:
@@ -24822,6 +25125,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1087572300
@@ -24934,6 +25239,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1092888586
 GameObject:
@@ -25044,6 +25351,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1094509727
@@ -25298,6 +25607,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1116246600
 GameObject:
@@ -25409,6 +25720,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1124477694
 GameObject:
@@ -25519,6 +25832,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &1126373469
@@ -25712,6 +26027,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1136636036
 GameObject:
@@ -25822,6 +26139,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1141192995
@@ -25934,6 +26253,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1147552864
 GameObject:
@@ -26044,6 +26365,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1149713445
@@ -26156,6 +26479,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1153439702
 GameObject:
@@ -26266,6 +26591,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1162873678
@@ -26378,6 +26705,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1163480068
 GameObject:
@@ -26488,6 +26817,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1166899217
@@ -26600,6 +26931,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1172597468
 GameObject:
@@ -26711,6 +27044,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1178756072
 GameObject:
@@ -26746,8 +27081,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   miningRange: 1000
-  damageMin: 0
-  damageMax: 10
+  damageMin: 50
+  damageMax: 100
+  hitSpeed: 0.3
   laserMat: {fileID: 2100000, guid: 5bf5b978c0c5c48c7b9d720033007443, type: 2}
   hand: {fileID: 2077288041}
 --- !u!114 &1178756074
@@ -27083,6 +27419,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1185338173
 GameObject:
@@ -27193,6 +27531,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &1194568568
@@ -27458,6 +27798,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1201019699
 GameObject:
@@ -27568,6 +27910,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1202962887
@@ -27756,6 +28100,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1203498476
 GameObject:
@@ -27866,6 +28212,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1203837839
@@ -27978,6 +28326,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1209805594
 GameObject:
@@ -28088,6 +28438,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1211634249
@@ -28277,6 +28629,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1221626406
 GameObject:
@@ -28387,6 +28741,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1228697102
@@ -28499,6 +28855,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1229500044
 GameObject:
@@ -28609,6 +28967,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1236487182
@@ -28753,6 +29113,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &1246744492
@@ -29032,6 +29394,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1280574643
 GameObject:
@@ -29142,6 +29506,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1286349523
@@ -29254,6 +29620,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1286909686
 GameObject:
@@ -29365,6 +29733,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1290473771
 GameObject:
@@ -29475,6 +29845,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &1298880859
@@ -29706,6 +30078,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1307898760
 GameObject:
@@ -29893,6 +30267,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &1308165809
@@ -30091,6 +30467,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1309594886
 GameObject:
@@ -30201,6 +30579,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1310754069
@@ -30313,6 +30693,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1310967533
 GameObject:
@@ -30423,6 +30805,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &1311597789
@@ -30783,6 +31167,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1335050524
 GameObject:
@@ -30893,6 +31279,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &1346127733
@@ -31091,6 +31479,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1352914416
 GameObject:
@@ -31201,6 +31591,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1353037242
@@ -31313,6 +31705,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1353066835
 GameObject:
@@ -31424,6 +31818,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1356894671
 GameObject:
@@ -31534,6 +31930,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &1357944991
@@ -31808,6 +32206,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1384911096
 GameObject:
@@ -32068,6 +32468,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1400854902
 GameObject:
@@ -32178,6 +32580,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1401577936
@@ -32290,6 +32694,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1403052093
 GameObject:
@@ -32400,6 +32806,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1408076105
@@ -32512,6 +32920,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1409715489
 GameObject:
@@ -32622,6 +33032,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1421726484
@@ -32734,6 +33146,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1425537738
 GameObject:
@@ -32844,6 +33258,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1426123936
@@ -32956,6 +33372,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1429168170
 GameObject:
@@ -33067,6 +33485,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1429365712
 GameObject:
@@ -33177,6 +33597,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1431881381
@@ -33322,6 +33744,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1441076282
 GameObject:
@@ -33433,6 +33857,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1445186827
 GameObject:
@@ -33543,6 +33969,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &1445338000
@@ -33908,6 +34336,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &1462509529
 PrefabInstance:
@@ -34100,6 +34530,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1464184175
 GameObject:
@@ -34210,6 +34642,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1474625317
@@ -34322,6 +34756,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1477996177
 GameObject:
@@ -34433,6 +34869,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1479459349
 GameObject:
@@ -34543,6 +34981,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1487361299
@@ -34687,6 +35127,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &1496842428
@@ -34961,6 +35403,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1503577218
 GameObject:
@@ -35071,6 +35515,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1510127306
@@ -35183,6 +35629,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1511435606
 GameObject:
@@ -35293,6 +35741,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1517366839
@@ -35405,6 +35855,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1518322573
 GameObject:
@@ -35516,6 +35968,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1527596317
 GameObject:
@@ -35626,6 +36080,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &1531095382
@@ -35824,6 +36280,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1537249667
 GameObject:
@@ -35935,6 +36393,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1538135001
 GameObject:
@@ -36045,6 +36505,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &1546125090
@@ -36233,6 +36695,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1567452340
 GameObject:
@@ -36343,6 +36807,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1571103760
@@ -36487,6 +36953,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1583105612
@@ -36676,6 +37144,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1587536694
 GameObject:
@@ -36786,6 +37256,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1588982656
@@ -37012,6 +37484,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &1605091623
 PrefabInstance:
@@ -37204,6 +37678,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1606324771
 GameObject:
@@ -37314,6 +37790,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1611550195
@@ -37426,6 +37904,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1613574248
 GameObject:
@@ -37536,6 +38016,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1620900595
@@ -37648,6 +38130,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1622792786
 GameObject:
@@ -37758,6 +38242,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1634988718
@@ -37961,6 +38447,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1641845877
 GameObject:
@@ -38071,6 +38559,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1647475818
@@ -38183,6 +38673,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1648571662
 GameObject:
@@ -38293,6 +38785,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1656688994
@@ -38405,6 +38899,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1665271286
 GameObject:
@@ -38515,6 +39011,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &1665630860
@@ -38713,6 +39211,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1673522221
 GameObject:
@@ -38824,6 +39324,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1677993339
 GameObject:
@@ -38934,6 +39436,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &1694082505
@@ -39127,6 +39631,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &1709786904
 PrefabInstance:
@@ -39313,6 +39819,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &1718800683
@@ -39625,6 +40133,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1733238024
 GameObject:
@@ -39770,6 +40280,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1737403913
 GameObject:
@@ -39880,6 +40392,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1738336462
@@ -39992,6 +40506,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1740852183
 GameObject:
@@ -40102,6 +40618,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1742213099
@@ -40214,6 +40732,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1747727519
 GameObject:
@@ -40324,6 +40844,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1749212851
@@ -40436,6 +40958,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1750015188
 GameObject:
@@ -40546,6 +41070,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1757983245
@@ -40658,6 +41184,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1767928734
 GameObject:
@@ -40768,6 +41296,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1778934017
@@ -40880,6 +41410,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1781345465
 GameObject:
@@ -40990,6 +41522,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1791828482
@@ -41171,6 +41705,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1798213757
 GameObject:
@@ -41281,6 +41817,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1798918910
@@ -41425,6 +41963,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &1815123085
@@ -41613,6 +42153,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &1829702430
 PrefabInstance:
@@ -41800,6 +42342,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1836547406
 GameObject:
@@ -41910,6 +42454,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1837893588
@@ -42136,6 +42682,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1847914972
 GameObject:
@@ -42247,6 +42795,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1854751572
 GameObject:
@@ -42357,6 +42907,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1863142078
@@ -42501,6 +43053,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &1867742490
@@ -42803,6 +43357,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1879149524
 GameObject:
@@ -42913,6 +43469,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1879780615
@@ -43025,6 +43583,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1894031702
 GameObject:
@@ -43135,6 +43695,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1904458815
@@ -43247,6 +43809,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1907821688
 GameObject:
@@ -43358,6 +43922,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1910564993
 GameObject:
@@ -43468,6 +44034,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &1912181397
@@ -43666,6 +44234,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1915633768
 GameObject:
@@ -43777,6 +44347,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1919579828
 GameObject:
@@ -43887,6 +44459,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &1920138006
@@ -44166,6 +44740,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1926682642
 GameObject:
@@ -44276,6 +44852,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &1934841368
@@ -44545,6 +45123,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!23 &1937925732
 MeshRenderer:
@@ -44748,6 +45328,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &1943583539
 PrefabInstance:
@@ -44945,6 +45527,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1951709551
 GameObject:
@@ -45055,6 +45639,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &1957207688
@@ -45324,6 +45910,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &1975908537
 PrefabInstance:
@@ -45516,6 +46104,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1988244024
 GameObject:
@@ -45659,6 +46249,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &1990853881
@@ -45933,6 +46525,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &2003776709
@@ -46347,6 +46941,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &2014285685
 GameObject:
@@ -46491,6 +47087,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &2016465413
 GameObject:
@@ -46601,6 +47199,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &2017215425
@@ -46713,6 +47313,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &2018432415
 GameObject:
@@ -46823,6 +47425,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &2021630981
@@ -47016,6 +47620,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &2022318919
 GameObject:
@@ -47126,6 +47732,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &2022652825
@@ -47404,6 +48012,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &2047193806
@@ -47722,6 +48332,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &2066466512
 GameObject:
@@ -47832,6 +48444,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &2071406893
@@ -48063,6 +48677,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &2077288040
@@ -48377,6 +48993,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &2102201925
 GameObject:
@@ -48487,6 +49105,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &2107150325
@@ -48718,6 +49338,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &2110994451
 GameObject:
@@ -48829,6 +49451,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &2111558689
 GameObject:
@@ -48939,6 +49563,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1001 &2124140685
@@ -49170,6 +49796,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &2129825143
 GameObject:
@@ -49280,6 +49908,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &2142121012
@@ -49392,6 +50022,8 @@ MonoBehaviour:
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
+    type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!1 &2142157217
 GameObject:
@@ -49502,6 +50134,8 @@ MonoBehaviour:
   minDrops: 0
   maxDrops: 0
   deathParticle: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
+  hitParticle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd,
     type: 3}
   dropObject: {fileID: 100000, guid: 815788aa3309848b7a580cc0e6c6aef9, type: 3}
 --- !u!33 &609246221932599865

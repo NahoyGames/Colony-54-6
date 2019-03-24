@@ -8,6 +8,7 @@ public class Player : MonoBehaviour
     private GameObject cam;
 
     private float sprint = 1f;
+    private float distToGround;
 
 
     // Walking
@@ -21,57 +22,23 @@ public class Player : MonoBehaviour
     public float horizontalSensitivity;
     public float verticalSensitivity;
 
+    // Jumping
+    [Header("Jumping")]
     public float jumpForce = 2.0f;
-    public float isSprinting = 1.0f;
-    public float multiplier = 1.0f;
-    public float didNot = 1000.0f;
-    public float jumpMax = 2.0f;
-    // Start is called before the first frame update
-    void Start()
+    public float fallForce = 2.0f;
+
+
+    private void Start()
     {
         rb = GetComponent<Rigidbody>();
         cam = transform.GetChild(0).gameObject;
+
+        distToGround = GetComponent<Collider>().bounds.extents.y;
     }
 
-    // Update is called once per frame
-    void Update()
+
+    private void Update()
     {
-        /*float translation = Input.GetAxis("Vertical") * Time.deltaTime * Speed * isSprinting;
-        float side = Input.GetAxis("Horizontal") * Time.deltaTime * sideSpeed * isSprinting * 0.9f;
-        float h = horizontalSpeed * Input.GetAxis("Mouse X") * Time.deltaTime;
-        float v = verticalSpeed * Input.GetAxis("Mouse Y") * Time.deltaTime;
-        rb.AddRelativeForce(side, 0, translation);
-        cam.transform.localEulerAngles += new Vector3(-Input.GetAxis("Mouse Y") * 5, 0, 0);
-        rb.AddTorque(Vector3.up * Input.GetAxis("Mouse X") * 5);
-        if (Input.GetButton("Sprint")) {
-            isSprinting = multiplier;
-         }
-        else {
-            isSprinting = 1;
-        }
-        if (Input.GetButtonDown("Jump")) {
-            RaycastHit hit;
-
-            if (Physics.Raycast(transform.position, transform.TransformDirection(Vector3.down), out hit, Mathf.Infinity)){
-                Debug.DrawRay(transform.position, transform.TransformDirection(Vector3.down) * hit.distance, Color.yellow);
-                Debug.Log("Hit");
-                Debug.Log(hit.distance);
-                if(hit.distance <= jumpMax) {
-                    float j = Input.GetAxis("Jump") * jumpForce;
-                    rb.AddForce(0, j, 0);
-                }
-                else {
-                }
-            }
-            else
-            {
-                Debug.DrawRay(transform.position, transform.TransformDirection(Vector3.down) * didNot, Color.white);
-                Debug.Log("Did not Hit");
-                Debug.Log(hit.distance); 
-            }
-        }*/
-
-
         // Camera Up & Down
         cam.transform.localEulerAngles += new Vector3(-Input.GetAxis("Mouse Y") * verticalSensitivity, 0, 0);
 
@@ -95,5 +62,23 @@ public class Player : MonoBehaviour
 
 
         // Player Jump
+        if (IsGrounded())
+        {
+            if (Input.GetButtonDown("Jump"))
+            {
+                rb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
+            }
+        }
+        else
+        {
+            sprint = sprint >= sprintMultiplier ? sprintMultiplier * 1.5f : 1.5f;
+            rb.AddForce(Vector3.down * fallForce, ForceMode.Impulse);
+        }
+    }
+
+
+    public bool IsGrounded()
+    {
+        return Physics.Raycast(transform.position, Vector3.down, distToGround + 0.1f);
     }
 }
