@@ -6,7 +6,8 @@ public class PhysicsMapTool : MonoBehaviour
 {
     public GameObject[] rocks;
     public GameObject[] trees;
-
+    public GameObject[] folliage;
+    
 
     private void Start()
     {
@@ -23,7 +24,7 @@ public class PhysicsMapTool : MonoBehaviour
 
         if (Input.GetButtonDown("Fire1"))
         {
-            GameObject g = Instantiate(rocks[(int)Random.Range(0, rocks.Length - 1)], this.transform.position, Quaternion.identity);
+            GameObject g = Instantiate(rocks[Random.Range(0, rocks.Length - 1)], this.transform.position, Quaternion.identity);
 
             PhysicsDrop p = g.AddComponent<PhysicsDrop>();
 
