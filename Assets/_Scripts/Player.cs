@@ -38,11 +38,15 @@ public class Player : MonoBehaviour
             RaycastHit hit;
 
             if (Physics.Raycast(transform.position, transform.TransformDirection(Vector3.down), out hit, Mathf.Infinity)){
-                float j = Input.GetAxis("Jump") * jumpForce;
-                rb.AddForce(0, j, 0);
                 Debug.DrawRay(transform.position, transform.TransformDirection(Vector3.down) * hit.distance, Color.yellow);
                 Debug.Log("Hit");
                 Debug.Log(hit.distance);
+                if(hit.distance <= 1.10) {
+                    float j = Input.GetAxis("Jump") * jumpForce;
+                    rb.AddForce(0, j, 0);
+                }
+                else {
+                }
             }
             else
             {
