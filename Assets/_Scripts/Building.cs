@@ -15,7 +15,7 @@ public class Building : MonoBehaviour
 
     public bool active = false;
 
-    private void Start(}
+    private void Start()
     {
         cam = Camera.main;
 
