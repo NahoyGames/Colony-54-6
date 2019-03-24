@@ -13,7 +13,9 @@ public class Building : MonoBehaviour
 
     private GameObject selected;
 
-    private void Start()
+    public bool active = false;
+
+    private void Start(}
     {
         cam = Camera.main;
 
@@ -64,7 +66,7 @@ public class Building : MonoBehaviour
 
         selected.transform.position = gridCursorPos;
 
-        if (Input.GetButtonDown("Fire2"))
+        if (Input.GetButtonDown("Fire3"))
         {
             Instantiate(wall, gridCursorPos, Quaternion.identity);
         }
