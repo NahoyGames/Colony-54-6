@@ -32,7 +32,7 @@ public class LaserGun : MonoBehaviour
             if (Physics.Raycast(this.transform.position, transform.forward, out hit, miningRange))
             {
 
-                lr.SetPositions(new Vector3[] { this.transform.position + (Vector3.down * 5f), hit.point});
+                lr.SetPositions(new Vector3[] { this.transform.position, hit.point});
 
                 Destructible d;
                 if ((d = hit.collider.gameObject.GetComponent<Destructible>()) != null)

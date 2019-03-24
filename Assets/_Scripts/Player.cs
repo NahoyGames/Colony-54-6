@@ -13,21 +13,25 @@ public class Player : MonoBehaviour
     public float isSprinting = 1.0f;
     public float multiplier = 1.0f;
     public float didNot = 1000.0f;
+    public float jumpMax = 2.0f;
+    public GameObject cam;
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody>();
+        cam = transform.GetChild(0).gameObject;
     }
 
     // Update is called once per frame
-    void FixedUpdate()
+    void Update()
     {
         float translation = Input.GetAxis("Vertical") * Time.deltaTime * Speed * isSprinting;
         float side = Input.GetAxis("Horizontal") * Time.deltaTime * sideSpeed * isSprinting * 0.9f;
         float h = horizontalSpeed * Input.GetAxis("Mouse X") * Time.deltaTime;
         float v = verticalSpeed * Input.GetAxis("Mouse Y") * Time.deltaTime;
-        transform.Translate(side, 0, translation);
-        transform.Rotate(-v, h, 0);
+        rb.AddRelativeForce(side, 0, translation);
+        cam.transform.localEulerAngles += new Vector3(-Input.GetAxis("Mouse Y") * 5, 0, 0);
+        rb.AddTorque(Vector3.up * Input.GetAxis("Mouse X") * 5);
         if (Input.GetButton("Sprint")) {
             isSprinting = multiplier;
          }
@@ -41,7 +45,7 @@ public class Player : MonoBehaviour
                 Debug.DrawRay(transform.position, transform.TransformDirection(Vector3.down) * hit.distance, Color.yellow);
                 Debug.Log("Hit");
                 Debug.Log(hit.distance);
-                if(hit.distance <= 1.10) {
+                if(hit.distance <= jumpMax) {
                     float j = Input.GetAxis("Jump") * jumpForce;
                     rb.AddForce(0, j, 0);
                 }
